@@ -45,14 +45,17 @@ The data preprocessing steps involve:
 ### Simple Neural Network
 
 The first model is a simple feedforward neural network that uses an embedding layer and a dense layer to classify the reviews.
+The training accuracy is 0.8504 and test accuracy is 0.7386. The model is Overfitting.
 
 ### Convolutional Neural Network
 
 The second model uses convolutional layers to capture local features in the text.
+The training accuracy is now 0.9575 and the test accuracy is 0.8568. The model is still overfitting.
 
 ### Recurrent Neural Network (LSTM)
 
 The final model employs LSTM layers to capture long-term dependencies in the text data.
+The training accuracy is 0.8673 and the test accuracy is 0.855. The model is now well fitted.
 
 ## Results
 
