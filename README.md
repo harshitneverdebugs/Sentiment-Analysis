@@ -55,11 +55,11 @@ The training accuracy is now 0.9575 and the test accuracy is 0.8568. The model i
 ### Recurrent Neural Network (LSTM)
 
 The final model employs LSTM layers to capture long-term dependencies in the text data.
-The training accuracy is 0.8673 and the test accuracy is 0.855. The model is now well fitted.
+The training accuracy is 0.8673 and the test accuracy is 0.855.
 
 ## Results
 
-Each model is evaluated on the test set, and the accuracy is printed for each architecture.
+The final train and test accuracy is 0.8673 and 0.855 respectively. The model is now perfectly fitted.
 
 ## Visualizations
 
